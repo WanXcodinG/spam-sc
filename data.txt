@@ -1,0 +1,3 @@
+RTMP link and Stream KEY: rtmp://push-tx.lvb.shopee.co.id/live/id-live-816697755159564-55195184?txSecret=3bd0dff1671f7e8ba3add40419ea77fb&txTime=659DB7B1&pushDomain=push-tx.lvb.shopee.co.id&cdnID=TXCLOUD&session_id=55195184
+
+Enter Video Name: lv_0_20240107034801.mp4
